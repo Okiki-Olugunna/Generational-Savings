@@ -1,0 +1,24 @@
+dotenv: .env
+
+networks: 
+  default: goerli-defi-multisig
+  explorer: https://api-goerli.etherscan.io/api
+  verify: True
+  etherscan: ${ETHERSCAN_TOKEN}
+
+provider:
+  websockets: ${WEBSOCKETS_KEY}
+  http: ${ALCHEMY_GOERLI_NODE_PROVIDER}
+
+wallets:
+  from_key: 
+    admin: ${ADMIN_KEY}
+    family_member_2: ${DEV_2_KEY}
+    family_member_3: ${DEV_3_KEY}
+    family_member_4: ${DEV_4_KEY}
+
+addresses:
+  admin_address: ${ADMIN_ADDRESS}
+  family_member_2_address: ${FAMILY_MEMBER_2_ADDRESS}
+  family_member_3_address: ${FAMILY_MEMBER_3_ADDRESS}
+  family_member_4_address: ${FAMILY_MEMBER_4_ADDRESS}
