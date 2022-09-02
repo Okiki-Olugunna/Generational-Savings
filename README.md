@@ -4,9 +4,11 @@
 
 Website: https://generational-savings.okikicodes.repl.co/ 
 
+To see the most real-life simulation of this, have a look at the script "make_a_withdrawal.py" or view the demo video below 
+
 ### Demo:
 
-< insert screen-recorded video >
+< space to insert screen-recorded video >
 
 #### Interacting directly with the contract:
 
