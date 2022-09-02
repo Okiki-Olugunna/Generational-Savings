@@ -174,7 +174,7 @@
   border-radius: 10px;
   transition: color 0.15s ease, border-color 0.15s ease;
   /* max-width: 600px; */
-  width: 600px;
+  width: 580px;
 }
 .customcard:hover,
 .customcard:focus,
@@ -342,6 +342,9 @@
   .grid {
     width: 100%;
     flex-direction: column;
+  }
+  .customcard {
+    width: 380px;
   }
 }
 
