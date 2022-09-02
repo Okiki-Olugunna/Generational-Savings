@@ -784,7 +784,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>DeFi Multi-Sig Savings Account</title>
+        <title>Generational Multi-Sig Savings</title>
         <meta name="description" content="Save money as a group." />
         {/* <link rel="icon" href="/multiple-keys-removebg.png" /> */}
         <link rel="icon" href="/padlock-bw-removebg.png" />
