@@ -4,7 +4,7 @@
 
 Website: https://generational-savings.okikicodes.repl.co/ 
 
-To see the most real-life simulation of this, have a look at the script ["make_a_withdrawal.py"](https://github.com/Okiki-Olugunna/Generational-Savings/blob/main/scripts/make_a_withdrawal.py) or view the demo video below 
+To see the most real-life simulation of this project, have a look at the script ["make_a_withdrawal.py"](https://github.com/Okiki-Olugunna/Generational-Savings/blob/main/scripts/make_a_withdrawal.py) or view the demo video below 
 
 ### Demo:
 
