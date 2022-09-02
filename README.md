@@ -4,7 +4,7 @@
 
 Website: <insert website link>
 
-#### Demo:
+### Demo:
 
 < insert screen-recorded video >
 
