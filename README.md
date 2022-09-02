@@ -1,6 +1,6 @@
 ## Generational DeFi Savings
 
-### Multisignature DeFi savings account that you can use to collectively save funds as a family for generations
+### Multi-Signature Savings Account to collectively save funds as a family for generations
 
 Website: <insert website link>
 
