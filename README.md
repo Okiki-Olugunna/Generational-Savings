@@ -2,7 +2,7 @@
 
 ### Multi-Signature Savings Account to collectively save funds as a family for generations
 
-Website: https://generational-savings.okikicodes.repl.co/ 
+*Website:* https://generational-savings.okikicodes.repl.co/ 
 
 <b>*must have MetaMask installed in your browser to use*</b>
 
