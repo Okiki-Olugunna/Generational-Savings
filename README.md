@@ -6,15 +6,17 @@ Website: https://generational-savings.okikicodes.repl.co/
 
 <b>*must have MetaMask installed in your browser to use*</b>
 
-To see the most real-life simulation of this project, have a look at the script ["make_a_withdrawal.py"](https://github.com/Okiki-Olugunna/Generational-Savings/blob/main/scripts/make_a_withdrawal.py) or view the demo video below 
+To see the most real-life simulation of this project, have a look at the script ["make_a_withdrawal.py"](https://github.com/Okiki-Olugunna/Generational-Savings/blob/main/scripts/make_a_withdrawal.py) 
 
-### Demo:
+<!-- or view the demo video below 
+
+### Demo: 
 
 https://user-images.githubusercontent.com/92333005/188250722-b7e4db95-0811-4caf-a2b1-43f3c2b5d7b1.mp4
 
 
 https://user-images.githubusercontent.com/92333005/188250775-c96ab250-e183-4762-bf3f-988e828b3841.mp4
-
+-->
 
 #### Interacting directly with the contract:
 
