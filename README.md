@@ -2,9 +2,11 @@
 
 ### Multi-Signature Savings Account to collectively save funds as a family for generations
 
+<!--
 *Website:* https://generational-savings.okikicodes.repl.co/ 
 
 <b>*must have MetaMask installed in your browser to use*</b>
+-->
 
 To see the most real-life simulation of this project, have a look at the script ["make_a_withdrawal.py"](https://github.com/Okiki-Olugunna/Generational-Savings/blob/main/scripts/make_a_withdrawal.py) 
 
