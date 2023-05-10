@@ -1,16 +1,25 @@
-## Generational DeFi Savings
+## Generational Savings
 
-### Multi-Signature Savings Account to collectively save funds as a family for generations
+### Multi-Sig DeFi Savings Account 
+<!--to collectively save funds as a family for generations-->
 
 <!--
 *Website:* https://generational-savings.okikicodes.repl.co/ 
-
 <b>*must have MetaMask installed in your browser to use*</b>
 -->
 
+#### Overview:
+- Family members are added as members of the contract 
+- When a member adds savings, the funds are supplied to Aave V3 to generate yield 
+- Members must make a withdrawal request before withdawing from the savings & include a reason 
+- Other members can then review the withdrawal request & may choose to approve the request or not 
+- When enough approvals have been reached, the member may now execute their withdrawal 
 
 To see the most real-life simulation of this project, have a look at the script ["make_a_withdrawal.py"](https://github.com/Okiki-Olugunna/Generational-Savings/blob/main/scripts/make_a_withdrawal.py) 
 
+To view the smart contract, [click here](https://github.com/Okiki-Olugunna/Generational-Savings/blob/main/contracts/EthSavings.sol)
+
+#### Mobile Site: 
 https://github.com/Okiki-Olugunna/Generational-Savings/assets/92333005/38436506-0c02-4d6e-ba71-112a0f491fa6
 
 
@@ -38,7 +47,8 @@ https://user-images.githubusercontent.com/92333005/188250775-c96ab250-e183-4762-
 - Admins can also change the number of required approvals in order for a withdrawal request to go through - however this number must always be above 1
 - The admin also has the right to withdraw everything in the savings by calling 'withdrawEverything' - however, this will not withdraw the reserves in the contract
 
+<!--
 #### Scripts & Tests:
-
 - This contract was rigorously tested - all scripts & tests can be found in the scripts and tests folders respectively
 - To see the most real-life simulation of this contract, have a look at the script "make_a_withdrawal.py"
+-->
